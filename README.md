@@ -123,10 +123,10 @@
             <a href="javascript:void(0);" onclick="showMessage('Полина Кашеня')">Открыть для Полины Кашени</a>
         </div>
         <div class="button">
-            <a href="javascript:void(0);" onclick="showMessage('Ксюша Петрученя')">Открыть для Полины Петрученя</a>
+            <a href="javascript:void(0);" onclick="showMessage('Ксюша Петрученя')">Открыть для Ксюши Петрученя</a>
         </div>
         <div class="button">
-            <a href="javascript:void(0);" onclick="showMessage('Лена Кузьмич')">Открыть для Лены</a>
+            <a href="javascript:void(0);" onclick="showMessage('Лена Кузьмич')">Открыть для Лены Кузьмич</a>
         </div>
         <div class="button">
             <a href="javascript:void(0);" onclick="showMessage('Рома Селедчик')">Открыть для Ромы Селедчик</a>
